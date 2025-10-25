@@ -5,9 +5,9 @@ const searchInput = document.getElementById('search-input');
 const searchIndex = [
     { title: 'Getting Started', url: 'pages/getstarted/sample.html', keywords: 'start quick example' },
     { title: 'Installation', url: 'pages/getstarted/installation.html', keywords: 'install pip setup' },
-    { title: 'Google GenAI Client', url: 'pages/docs/llm/clients/google-genai.html', keywords: 'gemini google llm api' },
+    { title: 'Google GenAI Client', url: 'pages/docs/llm/google-genai.html', keywords: 'gemini google llm api' },
     { title: 'Mistral Client', url: 'pages/docs/llm/clients/mistral.html', keywords: 'mistral llm api' },
-    { title: 'MaticGraph', url: 'pages/docs/graph/maticgraph.html', keywords: 'graph workflow state agent' },
+    { title: 'MaticGraph', url: 'pages/docs/maticgraph/maticgraph.html', keywords: 'graph workflow state agent' },
     { title: 'Messages', url: 'pages/docs/messages.html', keywords: 'message system human ai' }
 ];
 
